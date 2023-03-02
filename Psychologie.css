@@ -1,0 +1,92 @@
+body{
+    background-color: rgb(43, 29, 96);
+}
+.titre{
+    background-color: rgb(239, 117, 117);
+}
+
+.para1{
+   width:  200px;
+   float: left;
+   margin: 5px;
+   font-weight: bold;
+
+
+}
+
+
+.logo{
+    
+    width: 90px;
+    float: left;
+    margin-left: 10px;
+    padding-right :45px;
+    
+}
+h1{
+    text-align: center;
+    color: rgb(244, 240, 240);
+    font-size: 55px;
+}
+h2{
+    color: aliceblue;
+    margin: 20px;
+    text-shadow:4xp 4px 4px  rgb(255, 255, 255);
+}
+a{
+    
+    text-decoration: none;
+    border-radius: 3px solid #0a0ae3;
+    padding: 10px 10px;
+    color: rgb(245, 247, 250);
+    font-size: 25px;
+    
+    
+}
+li{
+    display: inline-block;
+    margin-top: 40px;
+}
+a:hover{
+    color: black;
+    background-color: rgb(118, 165, 42);
+    font-weight: bold;
+}
+div{
+    background-color: rgb(241, 239, 240);
+    padding: 10px;
+    margin: 20px;
+}
+p{
+    font-size: 20px;
+}
+.para1txt{
+    display: inline;
+}
+#news{
+    cursor: pointer;
+}
+nav{
+    float: right;
+    padding: auto;
+    margin: 25px;
+    
+}
+
+#streik{
+    flex: rendering 25px; 
+}
+td th{
+    border: 1px solid rgb(0, 0, 0);
+}
+.realimage{
+    width: 40%;
+    float: left;
+    clear: left;
+    color: black;
+}
+
+/*#logocolor{
+    background-color: rgb(43, 29, 96);
+}
+
